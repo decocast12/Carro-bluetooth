@@ -42,6 +42,7 @@ void loop() {
       int ly = PS4.LStickY();
       int rx = PS4.RStickX();
       int ry = PS4.RStickY();
+
       
       //SI LE HACES CAMBIOS AL CÓDIGO NO TE OLVIDES DE COMENTARLO, GONORREA.
     
