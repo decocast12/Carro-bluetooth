@@ -1,3 +1,6 @@
+//Ya logré comunicar el ESP32 con el control de PS4, en este código extraemos la información
+//de los joysticks derecho e izquierdo y la información de los gatillos de acelerar y frenar
+
 #include <Bluepad32.h>
 
 ControllerPtr myControllers[BP32_MAX_GAMEPADS];
